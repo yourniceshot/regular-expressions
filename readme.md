@@ -1,4 +1,4 @@
-# [Project 10 Praktikum](https://yourniceshot.github.io)
+# [Project 10 Praktikum](https://yourniceshot.github.io/regular-expressions)
 ## by Anastasia Mednikova
 ver 0.14
 ## Description
